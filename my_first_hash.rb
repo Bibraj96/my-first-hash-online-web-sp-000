@@ -1,9 +1,8 @@
 def my_hash
 blendi_hash = {
-  "first_name" => "Blendi"
+  "first_name" => "Blendi",
   "last_name" => "Ibraj"
 }
-end
 end
 
 
