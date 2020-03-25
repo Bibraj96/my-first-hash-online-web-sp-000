@@ -4,6 +4,7 @@ blendi_hash = {
   "last_name" => "Ibraj"
 }
 end
+end
 
 
 def shipping_manifest
